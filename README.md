@@ -1,1 +1,1 @@
-I am createing a news simple site for for the my coursework
+I am createing a simple news website for as my WEbsite coursework
